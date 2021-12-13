@@ -12,7 +12,7 @@ With the rapid development of information technology, more and more types of dat
 
 This project implements and demonstrates more efficient and diverse data cleaning techniques. In this project, we use the DOB Job Application Filings dataset as our typical dataset and use the similarity query to get the dataset with high similarity and complete the analysis.
 
-## Ways to Produce
+## Ways to Reproduce
 
 We mainly used jupyter notebook to perform data profiling, cleaning and visualisation in the experiment.
 
