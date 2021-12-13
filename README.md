@@ -46,5 +46,5 @@ All the referenced data and the result data will be stored into Reference Data f
 
 ## Deliverables
 
-You could find our report and thorough explanation of our algorigthm in Report folder. 
+You could find our report and thorough explanation of our algorithm in Report folder. 
 
